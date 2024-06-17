@@ -1,23 +1,6 @@
-'#' Lines starting with '#' are considered comments.
 
-'#' Ignore any file named foo.txt.
+.idea
 
-foo.txt
+.target
 
-'#' Ignore (generated) html files,
-
-*.html
-
-'#' except foo.html which is maintained by hand.
-
-!foo.html
-
-'#' Ignore objects and archives.
-
-*.[oa]
-
-.idea/
-
-.target/
-
-.out/
+.out
